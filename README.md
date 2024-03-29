@@ -1,5 +1,5 @@
 # DS_PYTHON_2024
 ## Projet Puthon realiser par :
-###                            * Yassine El Hard
+###                            * Yassine El Herd
 ###                            * Said Garnit
 ### Encadre par : M.kasri
